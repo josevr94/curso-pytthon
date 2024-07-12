@@ -1,0 +1,40 @@
+div{
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}/*soy un comentario*/
+
+#division{
+    color: #5a494e;
+    text-align: center;
+    background: #F5E3D4;
+    line-height: 2;
+    
+}
+.contenedor{
+    background:#2E5B3E ;
+   
+    color: #dabca5;
+    font-family: cursive;
+    font-size: 10px;
+    line-height: o;
+    display: inline;
+    
+
+}
+.holamundo{
+    font-family: cursive;
+    font-size: 48px;
+    display:inline;
+    text-align: center;
+
+}
+h1{
+    text-shadow: 3px 10px 10px black;
+    text-align: center;
+    
+}
+a{
+    display: inline;
+    
+}

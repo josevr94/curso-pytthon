@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.row{
+    margin: 20px;
+}
+.col{
+    display: inline-block;
+    vertical-align: top;
+    
+
+}
+#wapper{
+    width: 950px;
+    background: silver;
+    margin: 0px auto;
+    padding: 20px;
+}
+#header{
+    height: 150px;
+    background-color: green;
+
+}
+#navigation{
+    height: 300px;
+    background-color: blue;
+
+}
+#main_content{
+    background: red;
+    padding: 12px;
+}
+#advertisement{
+    height: 120px;
+    background: purple;
+    margin-top: 20px;
+}
+.subcontents{
+    height: 200px;
+    background: yellow;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}

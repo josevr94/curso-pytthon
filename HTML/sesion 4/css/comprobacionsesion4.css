@@ -1,0 +1,132 @@
+@media only screen and (max-width: 500px) {
+    .rojo {
+        display: none;
+    }
+
+    .morado {
+        display: none;
+    }
+
+    .rosado {
+        margin-top: -2%;
+        margin-left: 30%;
+        width: 25%;
+        height: 50px;
+
+    }
+
+    .azul {
+        margin-left: 30%;
+        width: 25%;
+    }
+
+    .verde {
+        margin-left: 30%;
+        width: 25%;
+        height: 50px;
+    }
+
+    .gris {
+        margin-left: 30%;
+        width: 25%;
+        height: 100px;
+    }
+
+}
+
+@media only screen and (min-width:501px) and (max-width:750px) {
+    .rosado {
+        display: block;
+        height: 50px;
+    }
+
+    .verde {
+        display: inline-block;
+        width: 12%;
+        height: 50px;
+    }
+
+    .azul {
+        display: inline-block;
+        width: 13%;
+        height: 50px;
+    }
+
+    .rojo {
+        display: inline-block;
+        width: 13%;
+        height: 50px;
+    }
+
+    .morado {
+        display: inline-block;
+        width: 40%;
+        height: 200px;
+    }
+
+    .gris {
+        display: inline-block;
+        width: 19%;
+        height: 200px;
+
+    }
+}
+
+.rosado{
+        background-color: pink;
+        padding: 10%;
+    
+} 
+
+.verde {
+    background-color: green;
+    padding: 10%;
+}
+
+.azul {
+    background-color: blue;
+    padding: 10%;
+}
+
+.rojo {
+    background-color: red;
+    padding: 10%;
+}
+
+.morado {
+    background-color: purple;
+    padding: 10%;
+}
+
+.gris {
+    background-color: grey;
+    padding: 10%;
+}
+
+@media only screen and (min-width:751px){
+    .rosado{
+        padding-top: 1px;
+        padding-bottom: 40px;
+        
+    }
+    .azul{
+        padding-bottom: 20%;
+    }
+    .rojo{
+        display: inline-block;
+        padding-right: 185px;
+        
+    }
+    .morado{
+        display: inline-block;
+        padding-right: 200px;
+        margin-right: -1%;
+        margin-left: -1%;
+    }
+    .gris{
+        display: inline-block;
+        padding-right: 190px;
+        
+    }
+
+}

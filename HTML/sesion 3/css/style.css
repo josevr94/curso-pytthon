@@ -2,6 +2,7 @@ div{
     height: 200px;
     width: 300px;
     text-align: center;
+    background: #2E5B3E;
 }/*soy un comentario*/
 
 #division{
@@ -9,6 +10,7 @@ div{
     text-align: center;
     background: #F5E3D4;
     line-height: 2;
+    display:inline-block;
     
 }
 .contenedor{
@@ -18,7 +20,7 @@ div{
     font-family: cursive;
     font-size: 10px;
     line-height: o;
-    display: inline;
+    display: inline-block;
     
 
 }

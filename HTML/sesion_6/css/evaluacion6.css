@@ -1,0 +1,28 @@
+body{
+    font-family: 'Verdana';
+    
+}
+nav{
+    background-color: #051B54;
+}
+
+.logonav{
+    font-family: 'Gill Sans';
+}
+.inicio{
+    background-color:  #FFFFFF33;
+    font-size: 11px;
+    padding: 7px;
+}
+.background{
+    background-color: #62DAD3;
+}
+.tamaño{
+    font-size: 11PX;
+}
+img{
+    width: 380px;
+}
+.list-group-item, .dropdown-toggle{
+    color:  #051B54;
+}

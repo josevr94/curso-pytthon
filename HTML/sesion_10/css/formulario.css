@@ -1,0 +1,19 @@
+.error{
+    background-color: red;
+    color: whitesmoke;
+}
+.aceppted{
+    background-color: green;
+    color: whitesmoke;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    margin-top: 4%;
+    background-color: rgb(3, 3, 2);
+    opacity: 0.8;
+    padding: 4%;
+    color: whitesmoke;
+    border-radius: 2%;
+}

@@ -1,0 +1,20 @@
+#area{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    margin-bottom: 20px;
+
+}
+
+#text2{
+    width: 100px;
+    height: 100px;
+    background-color: lightcoral;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 50px;
+}

@@ -67,7 +67,10 @@ if (login) {
 
             case 4:
                 break;
-                
+        }
+        if (option == 4) {
+            alert("Hasta pronto");
+            break;
         }
     }
     

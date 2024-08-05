@@ -1,0 +1,12 @@
+.titulo{
+    background: rgb(1, 2, 17);
+    color: whitesmoke;
+}
+.btn{
+    background: rgb(1, 2, 17);
+    color: whitesmoke;
+    padding: 10px 20px;
+    border: solid;
+    cursor: pointer;
+    transition: background 0.3s;
+}

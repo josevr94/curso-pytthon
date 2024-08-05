@@ -1,0 +1,15 @@
+$(document).ready(function(){
+    $('.boton').click(function(){
+        $('#texto').slideToggle()
+    });
+});
+$(document).ready(function(){
+    $('.boton2').click(function(){
+        $('#texto2').slideToggle()
+    });
+});
+$(document).ready(function(){
+    $('.boton3').click(function(){
+        $('#texto3').slideToggle()
+    });
+});

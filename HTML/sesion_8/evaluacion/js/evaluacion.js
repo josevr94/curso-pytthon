@@ -25,6 +25,12 @@ let clientes = [
         contraseña: "2015",
         saldo: 10000
     },
+    {
+        nombre: "paula",
+        id: "violeta124",
+        contraseña: "2016",
+        saldo: 10000
+    },
 ];
 
 alert("Bienvenido a la Banca en Linea");

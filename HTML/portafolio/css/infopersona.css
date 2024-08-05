@@ -1,0 +1,40 @@
+body {
+    background-image: url(/portafolio/img/f.jpg);
+}
+/* primera parte */
+.boton {
+
+    border: solid 2px;
+    box-sizing: border-box;
+}
+#titulodatos{
+    text-align: center;
+    
+}
+#texto{
+    text-align: center;
+    display: none;
+    border: solid black;
+}
+/* segunda parte  */
+#texto2{
+    text-align: center;
+    display: none;
+    border: solid black;
+}
+.boton2 {
+
+    border: solid 2px;
+    box-sizing: border-box;
+}
+/* tercera parte */
+#texto3{
+    text-align: center;
+    display: none;
+    border: solid black;
+}
+.boton3 {
+
+    border: solid 2px;
+    box-sizing: border-box;
+}

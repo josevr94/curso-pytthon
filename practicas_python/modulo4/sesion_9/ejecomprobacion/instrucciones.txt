@@ -1,0 +1,2 @@
+correr el codigo 
+usar la terminal para seleccionar las opcciones del menu 
